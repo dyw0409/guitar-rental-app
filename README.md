@@ -6,13 +6,13 @@
 ---
 
 ## 개발 환경
- - 프론트엔드 : HTML, CSS, JS(main,admin,user)
+ - 프론트엔드 : HTML, CSS, JS
  - 백엔드 : PHP
  - DB : JSON
 
 ---
 
-## 🧩 주요 기능 설계 및 구조
+## 🧩 구현된 기능(진도)
 1. 로그인 화면 : 사용자의 id와 password를 입력받기
 - -> php로 유저와 관리자의 임시 id와 password 생성하여, 값이 일치하면 다음 화면으로 이동한다. (user / user1234) (admin / admin1234)
 2. 고장 신고 관리 시스템 :
